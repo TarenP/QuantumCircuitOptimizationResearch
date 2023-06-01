@@ -1,7 +1,0 @@
-Gate,Qubit
-rz(pi),3
-rz(-pi),4
-x,4
-rz(-pi),5
-x,5
-rz(pi),6
