@@ -1,0 +1,9 @@
+Directory: PS C:\Users\taren\Documents\GitHub Repositories\QuantumCircuitOptimizer>
+Change version number in config files
+update change log
+python -m build
+python -m twine upload --repository pypi dist/*
+
+NOTE:
+Update Readme
+If update key, upload to the database(googledrive), set link to share with everyone
