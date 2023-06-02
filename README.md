@@ -4,11 +4,11 @@ This repository contains scripts for generating, collecting, and analyzing data 
 
 ## Scripts
 
-1. `Random QC Data Gen.py`: This script generates random quantum circuits with varying complexities. The complexities of the circuits are randomly determined, and the script collects data on these circuits, such as gate counts, execution times, and qubit usage. The collected data is stored for further analysis.
+1. `Random QC Data Gen.ipynb`: This script generates random quantum circuits with varying complexities. The complexities of the circuits are randomly determined, and the script collects data on these circuits, such as gate counts, execution times, and qubit usage. The collected data is stored for further analysis.
 
-2. `Reconstructor.py`: This script allows for the reconstruction of previously generated quantum circuits. The circuits are stored in a CSV file, and this script reads the file to reconstruct the circuits. The reconstructed circuits can be used for further analysis or experimentation.
+2. `Reconstructor.ipynb`: This script allows for the reconstruction of previously generated quantum circuits. The circuits are stored in a CSV file, and this script reads the file to reconstruct the circuits. The reconstructed circuits can be used for further analysis or experimentation.
 
-3. `Sequential QC Data Gen.py`: This script generates quantum circuits with sequentially increasing complexities. The complexities of the circuits start from a minimum value and increment by a fixed step size. Similar to the `Random QC Data Gen.py` script, data is collected on these circuits for analysis purposes.
+3. `Sequential QC Data Gen.ipynb`: This script generates quantum circuits with sequentially increasing complexities. The complexities of the circuits start from a minimum value and increment by a fixed step size. Similar to the `Random QC Data Gen.ipynb` script, data is collected on these circuits for analysis purposes.
 
 ## Data Analysis
 
