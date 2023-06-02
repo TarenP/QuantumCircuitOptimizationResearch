@@ -19,5 +19,7 @@ The collected data from the quantum circuits is used to perform analysis and gen
 2. `/Graphs`: This directory contains the graphs generated from the collected data. Each graph corresponds to a specific analysis, and the files are named accordingly.
 
 This repository has been used to collect data to produce these research papers:
+
 [Analysis of IBM Qiskit's Transpiler and Optimizer for Quantum Circuits](https://widgets.figshare.com/articles/23272724/embed?show_title=1)
+
 [Quantum Circuit Complexity-Based-Optimization](https://widgets.figshare.com/articles/23256344/embed?show_title=1)
